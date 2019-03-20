@@ -16,7 +16,7 @@
 
 Clone the repository in your computer with the following command
 ```bash
-git clone https://github.com/JoanAndoni/BancoAPIRest
+git clone https://github.com/JoanAndoni/BancoAPIRest  
 ```
 
 Change to the folder that you downloaded the repository
